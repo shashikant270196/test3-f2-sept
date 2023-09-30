@@ -1,0 +1,23 @@
+*{
+    background-color: white;
+}
+.main{
+    
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding-top: 20px;
+
+}
+.wrap{
+    font-size: 50px;
+}
+.col{ 
+    padding-top: 20px;
+    align-self: center; 
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    gap: 10px;
+
+}
